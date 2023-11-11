@@ -1,2 +1,1 @@
-# www
-www.dialogchain.com
+# www.dialogchain.com
